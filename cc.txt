@@ -1,0 +1,4 @@
+cloud computing :
+  cloud computing refers to the platform where the multiple computers connected to the global server.
+  It is also defined as platform where application,websites are developed,deployed and stored.
+  cloud is used to store tha data globally.
